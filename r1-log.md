@@ -7,6 +7,7 @@ The log of my #100DaysOfCode challenge. Started on [May 12, Tuesday, 2020].
 ### R1D1 
 
 05/12/2020 - Day 1 - Reviewing the HTML bases
-06/12/2020 - Day 2 - Finish Basic HTML and HTML5 module
+05/13/2020 - Day 2 - Finish Basic HTML and HTML5 module
+05/14/2020 - Día 3 - Some CSS. Font, border, padding and margin
 
 ### R1D2
