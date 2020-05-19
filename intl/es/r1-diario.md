@@ -11,5 +11,6 @@ El diario de mi reto #100DaysOfCode. Empecé el [12 de mayo, martes, 2020]
 14/05/2020 - Día 3 - Un poco de CSS. Font, border, padding and margin
 15/05/2020 - Día 4 - Finaliza el módulo CSS básico
 16/05/2020 - Día 5 - Comienza el módulo Diseño visual aplicado
+18/05/2020 - Día 6 - Line-height, positions, floats z-index
 
 ### R1D2
