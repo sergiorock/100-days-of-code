@@ -15,6 +15,7 @@ The log of my #100DaysOfCode challenge. Started on [May 12, Tuesday, 2020].
 05/19/2020 - Day 7 - Complementary and tertiary colors, color tones, hsl(), gradients
 05/20/2020 - Day 8 - Background image, scale and skew properties, make shapes with css
 05/21/2020 - Day 9 - Animation properties. Finish Applied Visual Design module.
+05/23/2020 - Day 10 - Start Applied Accessibility module
 
 
 ### R1D2

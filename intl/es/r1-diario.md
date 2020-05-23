@@ -14,6 +14,7 @@ El diario de mi reto #100DaysOfCode. Empecé el [12 de mayo, martes, 2020]
 18/05/2020 - Día 6 - Line-height, positions, floats z-index
 19/05/2020 - Day 7 - Colores complementarios y terciarios, tonos, hsl(), gradientes
 20/05/2020 - Day 8 - Imagen como fondo, propiedades scale y skew, crear formas con css
-21/05/2020 - Day 8 - Propiedades de animación. Fin del módulo Diseño visual aplicado.
+21/05/2020 - Day 9 - Propiedades de animación. Fin del módulo Diseño visual aplicado.
+23/05/2020 - Day 10 - Comienza el módulo Accesibilidad aplicada.
 
 ### R1D2
