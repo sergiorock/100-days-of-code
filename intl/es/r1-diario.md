@@ -16,5 +16,6 @@ El diario de mi reto #100DaysOfCode. Empecé el [12 de mayo, martes, 2020]
 20/05/2020 - Day 8 - Imagen como fondo, propiedades scale y skew, crear formas con css
 21/05/2020 - Day 9 - Propiedades de animación. Fin del módulo Diseño visual aplicado.
 23/05/2020 - Day 10 - Comienza el módulo Accesibilidad aplicada.
+24/05/2020 - Day 11 - Finaliza el módulo Accesibilidad aplicada.
 
 ### R1D2
