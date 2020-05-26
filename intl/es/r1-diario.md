@@ -17,5 +17,6 @@ El diario de mi reto #100DaysOfCode. Empecé el [12 de mayo, martes, 2020]
 21/05/2020 - Day 9 - Propiedades de animación. Fin del módulo Diseño visual aplicado.
 23/05/2020 - Day 10 - Comienza el módulo Accesibilidad aplicada.
 24/05/2020 - Day 11 - Finaliza el módulo Accesibilidad aplicada.
+25/05/2020 - Day 12 - Comienza y finaliza el módulo Principios del diseño web responsivo.
 
 ### R1D2
