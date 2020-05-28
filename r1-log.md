@@ -18,6 +18,7 @@ The log of my #100DaysOfCode challenge. Started on [May 12, Tuesday, 2020].
 05/23/2020 - Day 10 - Start Applied Accessibility module
 05/24/2020 - Day 11 - Finish Applied Accessibility module
 05/25/2020 - Day 12 - Start and finish Responsive Web Desing Principles
+05/27/2020 - Day 13 - Start CSS Flexbox module
 
 
 ### R1D2

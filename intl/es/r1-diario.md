@@ -18,5 +18,6 @@ El diario de mi reto #100DaysOfCode. Empecé el [12 de mayo, martes, 2020]
 23/05/2020 - Day 10 - Comienza el módulo Accesibilidad aplicada.
 24/05/2020 - Day 11 - Finaliza el módulo Accesibilidad aplicada.
 25/05/2020 - Day 12 - Comienza y finaliza el módulo Principios del diseño web responsivo.
+27/05/2020 - Day 13 - Comienza el módulo CSS flexbox;
 
 ### R1D2
