@@ -20,5 +20,6 @@ El diario de mi reto #100DaysOfCode. Empecé el [12 de mayo, martes, 2020]
 25/05/2020 - Day 12 - Comienza y finaliza el módulo Principios del diseño web responsivo.
 27/05/2020 - Day 13 - Comienza el módulo CSS flexbox.
 28/05/2020 - Day 14 - Un poco más sobre Flexbox
+29/05/2020 - Day 15 - Fin módulo CSS Flebox
 
 ### R1D2
