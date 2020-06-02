@@ -23,6 +23,7 @@ The log of my #100DaysOfCode challenge. Started on [May 12, Tuesday, 2020].
 05/29/2020 - Day 15 - Finish CSS Flexbox module
 05/30/2020 - Day 16 - Start CSS grid module
 05/31/2020 - Day 17 - A bit more about CSS grid
+06/01/2020 - Day 17 - Finish CSS grid module
 
 
 ### R1D2

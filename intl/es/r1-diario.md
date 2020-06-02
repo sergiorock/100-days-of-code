@@ -22,6 +22,7 @@ El diario de mi reto #100DaysOfCode. Empecé el [12 de mayo, martes, 2020]
 28/05/2020 - Day 14 - Un poco más sobre Flexbox
 29/05/2020 - Day 15 - Fin módulo CSS Flebox
 30/05/2020 - Day 16 - Comienza el módulo CSS grid
-31/05/2020 - Day 17 - Un poco más de CSS Grid 
+31/05/2020 - Day 17 - Un poco más de CSS Grid
+01/06/2020 - Day 18 - Finaliza el módulo CSS Grid
 
 ### R1D2
