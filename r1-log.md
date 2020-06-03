@@ -24,6 +24,7 @@ The log of my #100DaysOfCode challenge. Started on [May 12, Tuesday, 2020].
 05/30/2020 - Day 16 - Start CSS grid module
 05/31/2020 - Day 17 - A bit more about CSS grid
 06/01/2020 - Day 17 - Finish CSS grid module
+06/02/2020 - Day 20 - Start tribute page exercise
 
 
 ### R1D2

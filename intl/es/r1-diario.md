@@ -24,5 +24,6 @@ El diario de mi reto #100DaysOfCode. Empecé el [12 de mayo, martes, 2020]
 30/05/2020 - Day 16 - Comienza el módulo CSS grid
 31/05/2020 - Day 17 - Un poco más de CSS Grid
 01/06/2020 - Day 18 - Finaliza el módulo CSS Grid
+02/06/2020 - Day 19 - Comienza ejercicio tribute page
 
 ### R1D2
